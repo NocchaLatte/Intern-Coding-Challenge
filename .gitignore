@@ -1,0 +1,8 @@
+#any python cache files
+*.pyc
+./__pycache__
+
+#any vscode files
+.vscode
+./.vscode
+
